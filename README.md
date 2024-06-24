@@ -63,5 +63,5 @@ Para cualquier duda o consulta, por favor contacta a:
 
 - **Nombre**: [Daniel Núñez Rojas]
 - **Email**: [invdesdelnr@outlook.com]
-- **LinkedIn**: []
+- **LinkedIn**: [www.linkedin.com/in/delnr91]
 - **YouTube** : [https://www.youtube.com/@invdesdev33]
